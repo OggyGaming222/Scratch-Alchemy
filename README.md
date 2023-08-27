@@ -4,4 +4,4 @@ Now remade for offline play!
 
 Based on the original PopCap Alchemy made in 2000s
 
-The games had 2 modes, So play them all!
+The games now had 3 modes, So play them all!
